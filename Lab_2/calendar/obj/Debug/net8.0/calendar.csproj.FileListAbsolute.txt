@@ -1,0 +1,14 @@
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\obj\Debug\net8.0\calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\obj\Debug\net8.0\calendar.AssemblyInfoInputs.cache
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\obj\Debug\net8.0\calendar.AssemblyInfo.cs
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\obj\Debug\net8.0\calendar.csproj.CoreCompileInputs.cache
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\bin\Debug\net8.0\calendar.exe
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\bin\Debug\net8.0\calendar.deps.json
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\bin\Debug\net8.0\calendar.runtimeconfig.json
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\bin\Debug\net8.0\calendar.dll
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\bin\Debug\net8.0\calendar.pdb
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\obj\Debug\net8.0\calendar.dll
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\obj\Debug\net8.0\refint\calendar.dll
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\obj\Debug\net8.0\calendar.pdb
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\obj\Debug\net8.0\calendar.genruntimeconfig.cache
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\calendar\obj\Debug\net8.0\ref\calendar.dll
