@@ -1,0 +1,14 @@
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\bin\Debug\net8.0\Lab_1.1.exe
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\bin\Debug\net8.0\Lab_1.1.deps.json
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\bin\Debug\net8.0\Lab_1.1.runtimeconfig.json
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\bin\Debug\net8.0\Lab_1.1.dll
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\bin\Debug\net8.0\Lab_1.1.pdb
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\obj\Debug\net8.0\Lab_1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\obj\Debug\net8.0\Lab_1.1.AssemblyInfoInputs.cache
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\obj\Debug\net8.0\Lab_1.1.AssemblyInfo.cs
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\obj\Debug\net8.0\Lab_1.1.csproj.CoreCompileInputs.cache
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\obj\Debug\net8.0\Lab_1.1.dll
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\obj\Debug\net8.0\refint\Lab_1.1.dll
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\obj\Debug\net8.0\Lab_1.1.pdb
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\obj\Debug\net8.0\Lab_1.1.genruntimeconfig.cache
+C:\Users\liza\Documents\1.Study\2. ИТМО_2 курс\1_семестр\С#\проектыебаные\Lab_1.1\obj\Debug\net8.0\ref\Lab_1.1.dll
